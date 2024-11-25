@@ -21,15 +21,20 @@ Welcome to my GitHub profile!
 🔧 What I’m Working On
 
 Homelab Networking: Creating and managing custom networks using OPNsense for enhanced control.
+
 Plex Media Server: Containerized setup for seamless remote and local media access.
+
 Future Plans: Implementing RDP setups, hosting a NAS for centralized storage, and integrating physical devices into secure networks.
 
 
 💡 Skills & Interests
 
 Networking: NAT, VLANs, and secure network configurations.
+
 Virtualization & Containers: Proxmox, Docker.
+
 Cybersecurity & Systems Management.
+
 Coding & Development: Focus on security-oriented software projects.
 
 
