@@ -14,7 +14,9 @@ Welcome to my GitHub profile!
 🌟 About Me
 
 👨‍💻 Cybersecurity Student: Passionate about building custom homelabs and exploring network security.
+
 🛠️ Homelab Enthusiast: Utilizing Proxmox, OPNsense, and Docker to create secure and efficient networks.
+
 ⚙️ Tech Specialist at London Drugs with a focus on technology solutions and customer support.
 
 
@@ -41,7 +43,9 @@ Coding & Development: Focus on security-oriented software projects.
 📚 Learning & Exploring
 
 Advanced network security configurations.
+
 NAS hosting and storage optimization.
+
 Remote access solutions.
 
 
